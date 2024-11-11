@@ -19,7 +19,7 @@ I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engine
 
 ---
 
-## Blog Posts
+## Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
