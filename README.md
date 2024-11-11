@@ -5,7 +5,7 @@ _Still thinking of something to put here_
 
 Welcome to my GitHub profile! ❤️
 
-I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engineer with strong expertise in data engineering, data modeling, and AI/ML. As a problem solver and proud member of the <a href="https://42kl.edu.my/">42 Network</a> at 42KL, I’m driven to learn technologies and create efficient solutions.
+I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engineer with strong expertise in data engineering, data modeling, and AI/ML. As a problem solver and proud member of the <a href="https://42kl.edu.my/">42KL</a>, I’m driven to learn technologies and create efficient solutions.
 
 <!--
 ### My Experiences 🙌
