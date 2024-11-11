@@ -17,12 +17,11 @@ I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engine
 ![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoyedmundyoy&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-<!--
-### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
-<br/>
--->
+---
+
+<!-- Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
