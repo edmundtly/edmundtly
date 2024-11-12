@@ -19,7 +19,7 @@ I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engine
 
 ---
 
-## Latest Blog Post
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Data Modeling is Dead](https://medium.com/@edmund.tongly/data-modeling-is-dead-b7889639f14a?source=rss-3bc612c98df------2)
 - [DBT Data Tests: Generic vs Singular](https://medium.com/@edmund.tongly/dbt-data-tests-generic-vs-singular-1ab2245d9624?source=rss-3bc612c98df------2)
