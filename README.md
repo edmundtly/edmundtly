@@ -21,6 +21,7 @@ I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engine
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Dune Analytics: Building Your First JitoSOL Dashboard](https://medium.com/@edmund.tongly/mastering-dune-analytics-building-your-first-jitosol-dashboard-c7d9466fd649?source=rss-3bc612c98df------2)
 - [Data Modeling is Dead](https://medium.com/@edmund.tongly/data-modeling-is-dead-b7889639f14a?source=rss-3bc612c98df------2)
 - [DBT Data Tests: Generic vs Singular](https://medium.com/@edmund.tongly/dbt-data-tests-generic-vs-singular-1ab2245d9624?source=rss-3bc612c98df------2)
 - [Listen to Your Haters](https://medium.com/@edmund.tongly/listen-to-your-haters-91bca86300f9?source=rss-3bc612c98df------2)
