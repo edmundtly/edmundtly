@@ -14,7 +14,7 @@ I'm <a href="https://linkedin.com/in/yoyedmundyoy">Edmund</a>, a software engine
 - [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
 -->
 
-![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoyedmundyoy&layout=compact&langs_count=8&hide_border=true)
+![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edmundtly&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ---
